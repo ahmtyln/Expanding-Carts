@@ -35,19 +35,19 @@ h3{
     color: blue;
 }
 .img1{
-    background-image: url(./img/sea-6468912_1920.jpg);
+    background-image: url(/img/sea-6468912_1920.jpg);
 }
 .img2{
-    background-image: url(./img/lake-6480788_1920.jpg);
+    background-image: url(/img/lake-6480788_1920.jpg);
 }
 .img3{
-    background-image: url(./img/giraffe-6378717_1920.jpg);
+    background-image: url(/img/giraffe-6378717_1920.jpg);
 }
 .img4{
-    background-image: url(./img/bread-6486963_1920.jpg);
+    background-image: url(/img/bread-6486963_1920.jpg);
 }
 .img5{
-    background-image: url(./img/black-redstart-6487474_1920.jpg);
+    background-image: url(/img/black-redstart-6487474_1920.jpg);
 }
 .active{
     flex: 1;
